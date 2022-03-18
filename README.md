@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=dyywork#pic_right)
+<div align="right">![](https://github-readme-stats.vercel.app/api?username=dyywork)</div>
 
 
 
