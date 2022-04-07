@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/21052582?v=4" align="left"/>
+<img src="https://avatars.githubusercontent.com/u/21052582?v=3" align="left"/>
 <img src="https://github-readme-stats.vercel.app/api?username=dyywork" align="right"/>
 
 <!--
